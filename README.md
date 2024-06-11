@@ -3,7 +3,7 @@
     <img src="https://unicorn-cdn.b-cdn.net/3f5f7ac8-ee8d-4664-831f-7265116e914c/-/crop/852x195/29,41/-/preview/hackerrank-solutions.png" alt="HackerRank Solutions logo" title="HackerRank Solutions" align="right" height="50" />
 </a>
 
-# Hackerrank SQL solutions
+# HackerRank SQL solutions
 
 In this repository, you will find updated SQL solutions for all HackerRank problems as of 2024.
 <br />
