@@ -1,4 +1,14 @@
-# hackerrank-sql-solutions
+
+<a href="https://hackerrank.solutions/](https://hackerrank.solutions?s=github-sql-repo">
+    <img src="https://unicorn-cdn.b-cdn.net/3f5f7ac8-ee8d-4664-831f-7265116e914c/-/crop/852x195/29,41/-/preview/hackerrank-solutions.png" alt="HackerRank Solutions logo" title="HackerRank Solutions" align="right" height="50" />
+</a>
+
+# Hackerrank SQL solutions
+
+In this repository, you will find updated SQL solutions for all HackerRank problems as of 2024.
+<br />
+Repo made by **[HackerRankGPT - Solve HackerRank coding problems <ins>during your coding interview, in real-time and undetectable</ins>](https://hackerrank.solutions?s=github-sql-repo)** 😎
+<br /><br />
 
 | Category          | Problem Name                            | Link to Problem                                                              | Link to Solution                                                                                                                                        | Score |
 |-------------------|-----------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
@@ -46,3 +56,15 @@
 | Basic Join        | African Cities                          | [Problem](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/002.%20African%20Cities.sql)                        | 10    |
 | Basic Join        | Average Population of Each Continent    | [Problem](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/003.%20Average%20Population%20of%20Each%20Continent.sql) | 10    |
 | Basic Join        | The Report                              | [Problem](https://www.hackerrank.com/challenges/the-report/problem)     | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/004.%20The%20Report.sql)                            | 20    |
+
+
+## 💡 Why should you I use HackerRankGPT? 
+
+<ins>**A safeguard against your nerves during your coding test.**</ins>
+<br />
+AI is changing the world, and a tool like HackerRankGPT can give you a clear advantage in coding tests, helping you stand out when applying for jobs. It’s here now, and other candidates might be using it to get ahead and win the job.
+
+**<ins>Think of it as a helpful option when you’re stuck, not a must-use.</ins>**
+
+## How can I get it?
+Get more information on how to use it and download link here: HackerRankGPT - [Get all HackerRank Solutions](https://hackerrank.solutions?s=github-sql-repo)
